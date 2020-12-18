@@ -23,15 +23,18 @@ set(PROJECT_CONFIG_DIR ${CMAKE_SOURCE_DIR}/include)
 
 #file(GLOB_RECURSE Bluetooth_SRC "*.C")
 #file(GLOB_RECURSE Bluetooth_HEADERS "*.H")
-
+add_compile_options(-g -O2 -pipe -march=native)
+# executable
 add_executable(${PROJECT_NAME} ${COMMON_SOURCE}) # ${Bluetooth_SRC} ${Bluetooth_HEADERS})
-#add_library(CppLinuxSerial ${CppLinuxSerial_SRC} ${CppLinuxSerial_HEADERS})
-#target_include_directories(CppLinuxSerial PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
+# post-build
+add_custom_command(TARGET ${PROJECT_NAME}
+	POST_BUILD
+	COMMAND ${CMAKE_COMMAND} -E copy $<TARGET_FILE:${PROJECT_NAME}> ${CMAKE_SOURCE_DIR})
+
 target_include_directories(${PROJECT_NAME} SYSTEM PUBLIC ${CMAKE_SOURCE_DIR}/include ${XML2_INCLUDE_DIRS})
 link_directories(${XML2_LIBRARY_DIRS})
-target_link_libraries(${PROJECT_NAME} ${XML2_LIBRARIES})
-
-add_compile_options(-g -O2 -pipe -march=native)
+target_link_libraries(${PROJECT_NAME} ${XML2_LIBRARIES})#add_library(CppLinuxSerial ${CppLinuxSerial_SRC} ${CppLinuxSerial_HEADERS})
+#target_include_directories(CppLinuxSerial PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
 
 # On Linux, "sudo make install" will typically copy the library
 # into the folder /usr/local/bin
