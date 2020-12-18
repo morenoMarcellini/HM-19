@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<answers>
+  <answer>
+    <cmds>CHAR</cmds>
+    <code>1007</code>
+    <help>coming</help>
+    <special>1</special>
+  </answer>
+  <answer>
+    <cmds>CLEAR</cmds>
+    <code>1013</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>CONNL</cmds>
+    <code>1014</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>CO</cmds>
+    <code>1017</code>
+    <help>coming</help>
+    <special>1</special>
+  </answer>
+  <answer>
+    <cmds>IBE0</cmds>
+    <code>1023</code>
+    <help>coming</help>
+    <special>1</special>
+  </answer>
+  <answer>
+    <cmds>IBE1</cmds>
+    <code>1024</code>
+    <help>coming</help>
+    <special>1</special>
+  </answer>
+  <answer>
+    <cmds>IBE2</cmds>
+    <code>1025</code>
+    <help>coming</help>
+    <special>1</special>
+  </answer>
+  <answer>
+    <cmds>IBE3</cmds>
+    <code>1026</code>
+    <help>coming</help>
+    <special>1</special>
+  </answer>
+  <answer>
+    <cmds>MARJ</cmds>
+    <code>1027</code>
+    <help>coming</help>
+    <special>1</special>
+  </answer>
+  <answer>
+    <cmds>MINO</cmds>
+    <code>1028</code>
+    <help>coming</help>
+    <special>1</special>
+  </answer>
+  <answer>
+    <cmds>MEAS</cmds>
+    <code>1029</code>
+    <help>coming</help>
+    <special>1</special>
+  </answer>
+  <answer>
+    <cmds>NAME</cmds>
+    <code>1033</code>
+    <help>coming</help>
+    <special>1</special>
+  </answer>
+  <answer>
+    <cmds>PIO1</cmds>
+    <code>1035</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PIO2</cmds>
+    <code>1036</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PIO3</cmds>
+    <code>1037</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PIO4</cmds>
+    <code>1038</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PIO5</cmds>
+    <code>1039</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PIO6</cmds>
+    <code>1040</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PIO7</cmds>
+    <code>1041</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PIO8</cmds>
+    <code>1042</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PIO9</cmds>
+    <code>1043</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PIOA</cmds>
+    <code>1044</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PIOB</cmds>
+    <code>1045</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PWRM0</cmds>
+    <code>1046</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PWRM1</cmds>
+    <code>1046</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>RENEW</cmds>
+    <code>1049</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>RESET</cmds>
+    <code>1050</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>SLEEP</cmds>
+    <code>1055</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>START</cmds>
+    <code>1056</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>UUID</cmds>
+    <code>1060</code>
+    <help>coming</help>
+    <special>1</special>
+  </answer>
+<!--FROM HERE DOWN-->
+  <answer>
+    <cmds>ADVI0</cmds>
+    <code>1062</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVI1</cmds>
+    <code>1063</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVI2</cmds>
+    <code>1051</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVI3</cmds>
+    <code>1051</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVI4</cmds>
+    <code>1051</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVI5</cmds>
+    <code>1051</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVI6</cmds>
+    <code>1051</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVI7</cmds>
+    <code>1051</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVI8</cmds>
+    <code>1051</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVI9</cmds>
+    <code>1051</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVIA</cmds>
+    <code>1051</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVIB</cmds>
+    <code>1051</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVIC</cmds>
+    <code>1051</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVID</cmds>
+    <code>1051</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVIE</cmds>
+    <code>1051</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADVIF</cmds>
+    <code>1051</code>
+    <help>coming</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADTY0</cmds>
+    <code>1051</code>
+    <help>Advertising ScanResponse, Connectable</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADTY1</cmds>
+    <code>1051</code>
+    <help>Advertising ScanResponse, only allow lsat device connect in 1.28 seconds</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADTY2</cmds>
+    <code>1051</code>
+    <help>Advertising ScanResponse, Only allow advertising and ScanResponse</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ADTY3</cmds>
+    <code>1051</code>
+    <help>Advertising ScanResponse, only allow Advertising</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>BEFC0</cmds>
+    <code>1051</code>
+    <help>Set module pin output states after power on. PIO2 output low, PIO3 output low</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>BEFC1</cmds>
+    <code>1051</code>
+    <help>Set module pin output states after power on. PIO2 output low, PIO3 output high</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>BEFC2</cmds>
+    <code>1051</code>
+    <help>Set module pin output states after power on. PIO2 output high, PIO3 output low</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>BEFC3</cmds>
+    <code>1051</code>
+    <help>Set module pin output states after power on. PIO2 output high, PIO3 output high</help>
+    <special>-1</special>
+  </answer>  
+  <answer>
+    <cmds>AFTC0</cmds>
+    <code>1051</code>
+    <help>Set module pin output states after connection is established. PIO2 output high, PIO3 output high</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>AFTC1</cmds>
+    <code>1051</code>
+    <help>Set module pin output states after connection is established. PIO2 output high, PIO3 output high</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>AFTC2</cmds>
+    <code>1051</code>
+    <help>Set module pin output states after connection is established. PIO2 output high, PIO3 output high</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>AFTC3</cmds>
+    <code>1051</code>
+    <help>Set module pin output states after connection is established. PIO2 output high, PIO3 output high</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>BAUD0</cmds>
+    <code>1051</code>
+    <help>Set baud rate 1200</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>BAUD1</cmds>
+    <code>1051</code>
+    <help>Set baud rate 2400</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>BAUD2</cmds>
+    <code>1051</code>
+    <help>Set baud rate 4800</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>BAUD3</cmds>
+    <code>1051</code>
+    <help>Set baud rate 9600</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>BAUD4</cmds>
+    <code>1051</code>
+    <help>Set baud rate 19200</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>BAUD5</cmds>
+    <code>1051</code>
+    <help>Set baud rate 38400</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>BAUD6</cmds>
+    <code>1051</code>
+    <help>Set baud rate 57600</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>BAUD7</cmds>
+    <code>1051</code>
+    <help>Set baud rate 115200</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>BAUD8</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+
+  <answer>
+    <cmds>COMI0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMI1</cmds>
+    <code>1051</code>
+    <help>Set b0</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMI2</cmds>
+    <code>1051</code>
+    <help>Set b</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMI3</cmds>
+    <code>1051</code>
+    <help>Set b0</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMI4</cmds>
+    <code>1051</code>
+    <help>Set b</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMI5</cmds>
+    <code>1051</code>
+    <help>Set b0</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMI6</cmds>
+    <code>1051</code>
+    <help>Set b0</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMI7</cmds>
+    <code>1051</code>
+    <help>Set b0</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMI8</cmds>
+    <code>1051</code>
+    <help>Set </help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMI9</cmds>
+    <code>1051</code>
+    <help>COMI9</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMA0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMA1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMA2</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMA3</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMA4</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMA5</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMA6</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMA7</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMA8</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COMA9</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COLA0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COLA1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COLA2</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COLA3</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COLA4</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COSU0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COSU1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COSU2</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COSU3</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COSU4</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COSU5</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COSU6</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COUP0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>COUP1</cmds>
+    <code>1051</code>
+    <help>Set b</help>
+    <special>-1</special>
+  </answer>  
+  <answer>
+    <cmds>CONN0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>CONN1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>CONN2</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>CONN3</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>CONN4</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>CONN5</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>FFE20</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>FFE21</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>FIOW0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>FIOW1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>GAIT0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>GAIT1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>GAIN0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>GAIN1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>IMME0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+    </answer><answer>
+    <cmds>IMME1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>IBEA0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>IBEA1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>MODE0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>MODE1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>MODE2</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>NOTI0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>NOTI1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>NOTP0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>NOTP1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PARI0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PARI1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PIO10</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>PIO11</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>POWR0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>POWR1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>POWE0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>POWE1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>POWE2</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>POWE3</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>POWE4</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>POWE5</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>POWE6</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>POWE7</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>POWE8</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>POWE9</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>RELI0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>RELI1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ROLE0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>ROLE1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>RESP0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>RESP1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>RESP2</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  
+  <answer>
+    <cmds>SYSK0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>SYSK1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>STOP0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>STOP1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>SCAN1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>SCAN2</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>SCAN3</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>SCAN4</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>SCAN5</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+
+  <answer>
+    <cmds>SAVE0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>SAVE1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>SHOW0</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+  <answer>
+    <cmds>SHOW1</cmds>
+    <code>1051</code>
+    <help>To Be Written</help>
+    <special>-1</special>
+  </answer>
+</answers>
